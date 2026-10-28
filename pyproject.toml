@@ -1,4 +1,4 @@
-here[project]
+[project]
 name = "apexnet-tf"
 version = "0.6.0"
 description = "Compact explicit high-level API for TensorFlow"
